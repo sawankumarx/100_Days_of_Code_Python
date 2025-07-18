@@ -55,7 +55,6 @@ else:
     print("You typed wrong number. You lose!")
 
 
-
 # if 0<=user_input<=2:
 #     print(f"You choose\n{values[user_input]}")
 #     print(f"Computer choose\n{values[computer_input]}")
